@@ -1,1 +1,1 @@
-This repository contains all my internship tasks that I have done with Codsoft. All the projects are based on Python Programming Language.
+This repository contains Python Program that includes a chatbot, a tictactoe game and movie recommendation system. It inclues module such as pandas, sklearn, math and random.
